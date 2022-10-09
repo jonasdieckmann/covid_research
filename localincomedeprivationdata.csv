@@ -1,5 +1,4 @@
-;;;;;;;;;;;;;;;;;;
-Local Authority District code (2019);Local Authority District name (2019);Profile;Rural-urban classification;;;Deprivation gap (percentage points);Deprivation gap ranking;Moran's I;Moran's I ranking;Income deprivation rate;Income deprivation rate ranking;Income deprivation rate quintile;;;;;;
+﻿Local Authority District code (2019);Local Authority District name (2019);Profile;Rural-urban classification;;;Deprivation gap (percentage points);Deprivation gap ranking;Moran's I;Moran's I ranking;Income deprivation rate;Income deprivation rate ranking;Income deprivation rate quintile;;;;;;
 E07000223;Adur;n-shape;Urban with City and Town;4;Urban;21,7%;233;0,17;234;10,8%;158;3;;;;;;
 E07000026;Allerdale;Flat;Mainly Rural (rural including hub towns >=80%) ;1;Rural;36,6%;95;0,29;157;12,1%;130;3;;;;;;
 E07000032;Amber Valley;n-shape;Urban with Minor Conurbation;5;Urban;32,9%;121;0,29;157;10,9%;153;3;;;;;;
